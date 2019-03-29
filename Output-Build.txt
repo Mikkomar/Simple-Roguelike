@@ -1,0 +1,7 @@
+﻿1>------ Build started: Project: Roguelike, Configuration: Debug x86 ------
+1>C:\Users\Marttila\Documents\GitHub\Simple-Roguelike\Layer.cs(8,17,8,23): warning CS0649: Field 'Layer.length' is never assigned to, and will always have its default value 0
+1>C:\Users\Marttila\Documents\GitHub\Simple-Roguelike\Tile.cs(10,23,10,32): warning CS0169: The field 'Tile.character' is never used
+1>C:\Users\Marttila\Documents\GitHub\Simple-Roguelike\Layer.cs(7,17,7,22): warning CS0649: Field 'Layer.width' is never assigned to, and will always have its default value 0
+1>C:\Users\Marttila\Documents\GitHub\Simple-Roguelike\Tile.cs(8,18,8,26): warning CS0169: The field 'Tile.walkable' is never used
+1>  Roguelike -> C:\Users\Marttila\Documents\GitHub\Simple-Roguelike\bin\Debug\ConsoleApplication.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
