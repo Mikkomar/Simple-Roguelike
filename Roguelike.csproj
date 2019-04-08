@@ -78,6 +78,7 @@
     <Compile Include="Layer.cs" />
     <Compile Include="Room.cs" />
     <Compile Include="Tile.cs" />
+    <Compile Include="Wall.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include=".git\objects\info\" />
